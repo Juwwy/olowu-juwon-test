@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\test\CheckMonthTask5\bin\Debug\net5.0\CheckMonthTask5.exe
+C:\CodebitsAcademy\test\CheckMonthTask5\bin\Debug\net5.0\CheckMonthTask5.deps.json
+C:\CodebitsAcademy\test\CheckMonthTask5\bin\Debug\net5.0\CheckMonthTask5.runtimeconfig.json
+C:\CodebitsAcademy\test\CheckMonthTask5\bin\Debug\net5.0\CheckMonthTask5.runtimeconfig.dev.json
+C:\CodebitsAcademy\test\CheckMonthTask5\bin\Debug\net5.0\CheckMonthTask5.dll
+C:\CodebitsAcademy\test\CheckMonthTask5\bin\Debug\net5.0\ref\CheckMonthTask5.dll
+C:\CodebitsAcademy\test\CheckMonthTask5\bin\Debug\net5.0\CheckMonthTask5.pdb
+C:\CodebitsAcademy\test\CheckMonthTask5\obj\Debug\net5.0\CheckMonthTask5.csprojAssemblyReference.cache
+C:\CodebitsAcademy\test\CheckMonthTask5\obj\Debug\net5.0\CheckMonthTask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\test\CheckMonthTask5\obj\Debug\net5.0\CheckMonthTask5.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\test\CheckMonthTask5\obj\Debug\net5.0\CheckMonthTask5.AssemblyInfo.cs
+C:\CodebitsAcademy\test\CheckMonthTask5\obj\Debug\net5.0\CheckMonthTask5.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\test\CheckMonthTask5\obj\Debug\net5.0\CheckMonthTask5.dll
+C:\CodebitsAcademy\test\CheckMonthTask5\obj\Debug\net5.0\ref\CheckMonthTask5.dll
+C:\CodebitsAcademy\test\CheckMonthTask5\obj\Debug\net5.0\CheckMonthTask5.pdb
+C:\CodebitsAcademy\test\CheckMonthTask5\obj\Debug\net5.0\CheckMonthTask5.genruntimeconfig.cache

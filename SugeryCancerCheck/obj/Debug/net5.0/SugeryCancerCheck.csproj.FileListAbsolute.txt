@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\test\SugeryCancerCheck\bin\Debug\net5.0\SugeryCancerCheck.exe
+C:\CodebitsAcademy\test\SugeryCancerCheck\bin\Debug\net5.0\SugeryCancerCheck.deps.json
+C:\CodebitsAcademy\test\SugeryCancerCheck\bin\Debug\net5.0\SugeryCancerCheck.runtimeconfig.json
+C:\CodebitsAcademy\test\SugeryCancerCheck\bin\Debug\net5.0\SugeryCancerCheck.runtimeconfig.dev.json
+C:\CodebitsAcademy\test\SugeryCancerCheck\bin\Debug\net5.0\SugeryCancerCheck.dll
+C:\CodebitsAcademy\test\SugeryCancerCheck\bin\Debug\net5.0\ref\SugeryCancerCheck.dll
+C:\CodebitsAcademy\test\SugeryCancerCheck\bin\Debug\net5.0\SugeryCancerCheck.pdb
+C:\CodebitsAcademy\test\SugeryCancerCheck\obj\Debug\net5.0\SugeryCancerCheck.csprojAssemblyReference.cache
+C:\CodebitsAcademy\test\SugeryCancerCheck\obj\Debug\net5.0\SugeryCancerCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\test\SugeryCancerCheck\obj\Debug\net5.0\SugeryCancerCheck.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\test\SugeryCancerCheck\obj\Debug\net5.0\SugeryCancerCheck.AssemblyInfo.cs
+C:\CodebitsAcademy\test\SugeryCancerCheck\obj\Debug\net5.0\SugeryCancerCheck.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\test\SugeryCancerCheck\obj\Debug\net5.0\SugeryCancerCheck.dll
+C:\CodebitsAcademy\test\SugeryCancerCheck\obj\Debug\net5.0\ref\SugeryCancerCheck.dll
+C:\CodebitsAcademy\test\SugeryCancerCheck\obj\Debug\net5.0\SugeryCancerCheck.pdb
+C:\CodebitsAcademy\test\SugeryCancerCheck\obj\Debug\net5.0\SugeryCancerCheck.genruntimeconfig.cache

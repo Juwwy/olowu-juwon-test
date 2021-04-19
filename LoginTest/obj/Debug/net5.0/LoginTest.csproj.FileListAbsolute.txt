@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\test\LoginTest\bin\Debug\net5.0\LoginTest.exe
+C:\CodebitsAcademy\test\LoginTest\bin\Debug\net5.0\LoginTest.deps.json
+C:\CodebitsAcademy\test\LoginTest\bin\Debug\net5.0\LoginTest.runtimeconfig.json
+C:\CodebitsAcademy\test\LoginTest\bin\Debug\net5.0\LoginTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\test\LoginTest\bin\Debug\net5.0\LoginTest.dll
+C:\CodebitsAcademy\test\LoginTest\bin\Debug\net5.0\ref\LoginTest.dll
+C:\CodebitsAcademy\test\LoginTest\bin\Debug\net5.0\LoginTest.pdb
+C:\CodebitsAcademy\test\LoginTest\obj\Debug\net5.0\LoginTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\test\LoginTest\obj\Debug\net5.0\LoginTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\test\LoginTest\obj\Debug\net5.0\LoginTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\test\LoginTest\obj\Debug\net5.0\LoginTest.AssemblyInfo.cs
+C:\CodebitsAcademy\test\LoginTest\obj\Debug\net5.0\LoginTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\test\LoginTest\obj\Debug\net5.0\LoginTest.dll
+C:\CodebitsAcademy\test\LoginTest\obj\Debug\net5.0\ref\LoginTest.dll
+C:\CodebitsAcademy\test\LoginTest\obj\Debug\net5.0\LoginTest.pdb
+C:\CodebitsAcademy\test\LoginTest\obj\Debug\net5.0\LoginTest.genruntimeconfig.cache

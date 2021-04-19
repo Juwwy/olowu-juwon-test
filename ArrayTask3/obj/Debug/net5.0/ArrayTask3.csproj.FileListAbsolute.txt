@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\test\ArrayTask3\obj\Debug\net5.0\ArrayTask3.csprojAssemblyReference.cache
+C:\CodebitsAcademy\test\ArrayTask3\obj\Debug\net5.0\ArrayTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\test\ArrayTask3\obj\Debug\net5.0\ArrayTask3.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\test\ArrayTask3\obj\Debug\net5.0\ArrayTask3.AssemblyInfo.cs
+C:\CodebitsAcademy\test\ArrayTask3\obj\Debug\net5.0\ArrayTask3.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\test\ArrayTask3\bin\Debug\net5.0\ArrayTask3.exe
+C:\CodebitsAcademy\test\ArrayTask3\bin\Debug\net5.0\ArrayTask3.deps.json
+C:\CodebitsAcademy\test\ArrayTask3\bin\Debug\net5.0\ArrayTask3.runtimeconfig.json
+C:\CodebitsAcademy\test\ArrayTask3\bin\Debug\net5.0\ArrayTask3.runtimeconfig.dev.json
+C:\CodebitsAcademy\test\ArrayTask3\bin\Debug\net5.0\ArrayTask3.dll
+C:\CodebitsAcademy\test\ArrayTask3\bin\Debug\net5.0\ref\ArrayTask3.dll
+C:\CodebitsAcademy\test\ArrayTask3\bin\Debug\net5.0\ArrayTask3.pdb
+C:\CodebitsAcademy\test\ArrayTask3\obj\Debug\net5.0\ArrayTask3.dll
+C:\CodebitsAcademy\test\ArrayTask3\obj\Debug\net5.0\ref\ArrayTask3.dll
+C:\CodebitsAcademy\test\ArrayTask3\obj\Debug\net5.0\ArrayTask3.pdb
+C:\CodebitsAcademy\test\ArrayTask3\obj\Debug\net5.0\ArrayTask3.genruntimeconfig.cache

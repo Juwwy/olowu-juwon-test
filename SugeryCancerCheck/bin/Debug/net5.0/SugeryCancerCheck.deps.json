@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SugeryCancerCheck/1.0.0": {
+        "runtime": {
+          "SugeryCancerCheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SugeryCancerCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

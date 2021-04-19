@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\test\ArraySumTask5\obj\Debug\net5.0\ArraySumTask5.csprojAssemblyReference.cache
+C:\CodebitsAcademy\test\ArraySumTask5\obj\Debug\net5.0\ArraySumTask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\test\ArraySumTask5\obj\Debug\net5.0\ArraySumTask5.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\test\ArraySumTask5\obj\Debug\net5.0\ArraySumTask5.AssemblyInfo.cs
+C:\CodebitsAcademy\test\ArraySumTask5\obj\Debug\net5.0\ArraySumTask5.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\test\ArraySumTask5\bin\Debug\net5.0\ArraySumTask5.exe
+C:\CodebitsAcademy\test\ArraySumTask5\bin\Debug\net5.0\ArraySumTask5.deps.json
+C:\CodebitsAcademy\test\ArraySumTask5\bin\Debug\net5.0\ArraySumTask5.runtimeconfig.json
+C:\CodebitsAcademy\test\ArraySumTask5\bin\Debug\net5.0\ArraySumTask5.runtimeconfig.dev.json
+C:\CodebitsAcademy\test\ArraySumTask5\bin\Debug\net5.0\ArraySumTask5.dll
+C:\CodebitsAcademy\test\ArraySumTask5\bin\Debug\net5.0\ref\ArraySumTask5.dll
+C:\CodebitsAcademy\test\ArraySumTask5\bin\Debug\net5.0\ArraySumTask5.pdb
+C:\CodebitsAcademy\test\ArraySumTask5\obj\Debug\net5.0\ArraySumTask5.dll
+C:\CodebitsAcademy\test\ArraySumTask5\obj\Debug\net5.0\ref\ArraySumTask5.dll
+C:\CodebitsAcademy\test\ArraySumTask5\obj\Debug\net5.0\ArraySumTask5.pdb
+C:\CodebitsAcademy\test\ArraySumTask5\obj\Debug\net5.0\ArraySumTask5.genruntimeconfig.cache
